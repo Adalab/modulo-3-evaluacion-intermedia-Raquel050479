@@ -1,4 +1,18 @@
 //estilos generales
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
     background-color: aquamarine;
+    padding: 20px;
+    .titleH1, .titleH2{
+        text-align: center;
+    }
+}
+
+.container{
+    background-color: lightcoral;
 }
